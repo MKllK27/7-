@@ -1,0 +1,17 @@
+body {
+    background-image: url(images/hello.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: white;
+    font-family: sans-serif
+}
+h1 {
+    margin: 0;
+    font-size: 200px;
+    color: rgb(255, 177, 225);
+}
+p {
+    font-size: 50px;
+    color: rgb(255, 218, 241);
+}
